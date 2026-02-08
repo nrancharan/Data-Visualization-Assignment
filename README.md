@@ -1,4 +1,4 @@
-# Data-Visualization-Assignment
+# South American Gas Prices - Data Visualization
 Brazil Gas Prices (Data Visualization from a Kaggle Dataset)
 
 The Data_Clean file contains code that translated the original dataset from Portuguese to English.
